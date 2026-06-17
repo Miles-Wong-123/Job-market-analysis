@@ -1,0 +1,71 @@
+{
+  "code": "200",
+  "message": "success",
+  "content": {
+    "total": 312,
+    "pageIndex": 1,
+    "pageSize": 10,
+    "datas": [
+      {
+        "id": 80010001,
+        "name": "Java研发工程师-淘天集团",
+        "description": "1. 参与淘宝核心交易系统的开发与运维\n2. 高并发分布式服务、商品/订单/营销系统\n3. 稳定性建设与性能优化",
+        "requirement": "1. 计算机相关专业 2026 届本科及以上\n2. 扎实掌握 Java、Spring 全家桶\n3. 熟悉 MySQL、Redis、Kafka",
+        "departmentName": "淘天集团-技术部",
+        "workLocations": [{"name": "杭州"}],
+        "categories": [{"name": "研发工程师"}],
+        "lastUpdateTime": "2026-06-08 10:20:30",
+        "recruitType": "校园招聘",
+        "degree": "本科"
+      },
+      {
+        "id": 80010002,
+        "name": "算法工程师-阿里云",
+        "description": "1. 阿里云大模型产品的算法研发\n2. LLM 训练、推理优化、Agent 系统\n3. 与产品/工程团队联合落地",
+        "requirement": "1. 硕士及以上，计算机/数学方向\n2. 熟悉 PyTorch 或 JAX\n3. NLP/CV 顶会论文者优先",
+        "departmentName": "阿里云-通义实验室",
+        "workLocations": [{"name": "北京"}, {"name": "杭州"}],
+        "categories": [{"name": "算法工程师"}],
+        "lastUpdateTime": "2026-06-07 09:00:00",
+        "recruitType": "校园招聘",
+        "degree": "硕士"
+      },
+      {
+        "id": 80010003,
+        "name": "前端工程师-高德",
+        "description": "1. 高德地图 Web 端业务开发\n2. 地图渲染、性能优化\n3. 跨端方案探索",
+        "requirement": "1. 计算机相关专业 2026 届本科及以上\n2. React/Vue 任一精通\n3. 了解 WebGL 优先",
+        "departmentName": "高德",
+        "workLocations": [{"name": "北京"}],
+        "categories": [{"name": "前端工程师"}],
+        "lastUpdateTime": "2026-06-06 14:00:00",
+        "recruitType": "校园招聘",
+        "degree": "本科"
+      },
+      {
+        "id": 80010004,
+        "name": "数据工程师-1688",
+        "description": "1688 大数据平台数据仓库建设、ETL 流程治理。",
+        "requirement": "1. 熟悉 Hive/Spark/Flink\n2. SQL 扎实",
+        "departmentName": "1688",
+        "workLocations": [{"name": "杭州"}],
+        "categories": [{"name": "大数据工程师"}],
+        "lastUpdateTime": "2026-06-05 11:30:00",
+        "recruitType": "校园招聘",
+        "degree": "本科"
+      },
+      {
+        "id": 80010005,
+        "name": "C++研发工程师-蚂蚁",
+        "description": "蚂蚁金服核心金融系统底层开发。",
+        "requirement": "1. C++ 扎实，熟悉 Linux\n2. 数据结构与算法基础好",
+        "departmentName": "蚂蚁金服-基础平台",
+        "workLocations": [{"name": "杭州"}],
+        "categories": [{"name": "研发工程师"}],
+        "lastUpdateTime": "2026-06-04 09:00:00",
+        "recruitType": "校园招聘",
+        "degree": "本科"
+      }
+    ]
+  }
+}

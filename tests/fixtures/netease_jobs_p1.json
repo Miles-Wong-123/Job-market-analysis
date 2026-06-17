@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "data": {
+    "totalCount": 180,
+    "list": [
+      {
+        "id": "NE-1001",
+        "postName": "服务端开发工程师-游戏",
+        "postType": "技术",
+        "postCity": "杭州",
+        "postDept": "网易雷火",
+        "postDuty": "1. MMO 服务端开发\n2. 高性能 C++/Go\n3. 大规模在线服务架构",
+        "postRequirement": "C++/Go 扎实，熟悉网络编程",
+        "releaseTime": "2026-06-08",
+        "eduDegree": "本科"
+      },
+      {
+        "id": "NE-1002",
+        "postName": "推荐算法工程师-云音乐",
+        "postType": "算法",
+        "postCity": "杭州",
+        "postDept": "网易云音乐",
+        "postDuty": "音乐推荐、歌单生成",
+        "postRequirement": "硕士，PyTorch",
+        "releaseTime": "2026-06-07",
+        "eduDegree": "硕士"
+      },
+      {
+        "id": "NE-1003",
+        "postName": "前端开发工程师-有道",
+        "postType": "前端",
+        "postCity": "北京",
+        "postDept": "网易有道",
+        "postDuty": "教育产品 Web 端开发",
+        "postRequirement": "React/Vue",
+        "releaseTime": "2026-06-06",
+        "eduDegree": "本科"
+      },
+      {
+        "id": "NE-1004",
+        "postName": "测试开发工程师",
+        "postType": "测试",
+        "postCity": "杭州",
+        "postDept": "网易游戏",
+        "postDuty": "游戏自动化测试",
+        "postRequirement": "Python",
+        "releaseTime": "2026-06-05",
+        "eduDegree": "本科"
+      },
+      {
+        "id": "NE-1005",
+        "postName": "数据工程师",
+        "postType": "数据",
+        "postCity": "杭州",
+        "postDept": "数据平台",
+        "postDuty": "数据仓库、ETL",
+        "postRequirement": "Hive/Spark",
+        "releaseTime": "2026-06-04",
+        "eduDegree": "本科"
+      }
+    ]
+  }
+}

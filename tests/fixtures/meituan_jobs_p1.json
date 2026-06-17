@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "msg": "ok",
+  "data": {
+    "totalCount": 256,
+    "list": [
+      {
+        "id": "MT-7001",
+        "code": "MT7001",
+        "jobName": "后端开发工程师-外卖",
+        "jobFamily": "后端开发",
+        "workCity": "北京",
+        "recruitType": 2,
+        "jobDescription": "1. 美团外卖核心交易系统开发\n2. Java 高并发分布式服务\n3. 稳定性建设",
+        "jobRequirement": "1. 计算机相关 2026 届本科及以上\n2. Java 扎实\n3. 熟悉 MySQL/Redis",
+        "jobBrief": "外卖后端",
+        "updateTime": "2026-06-08 10:00:00",
+        "bgName": "外卖事业部"
+      },
+      {
+        "id": "MT-7002",
+        "code": "MT7002",
+        "jobName": "推荐算法工程师-到店",
+        "jobFamily": "算法",
+        "workCity": "北京、上海",
+        "recruitType": 2,
+        "jobDescription": "到店业务推荐与排序算法",
+        "jobRequirement": "硕士及以上，PyTorch/TensorFlow",
+        "jobBrief": "到店算法",
+        "updateTime": "2026-06-07 09:00:00",
+        "bgName": "到店事业群"
+      },
+      {
+        "id": "MT-7003",
+        "code": "MT7003",
+        "jobName": "前端开发工程师",
+        "jobFamily": "前端",
+        "workCity": "上海",
+        "recruitType": 2,
+        "jobDescription": "美团 App 内嵌 H5 与中后台开发",
+        "jobRequirement": "React/Vue 任一精通",
+        "jobBrief": "前端",
+        "updateTime": "2026-06-06 14:00:00",
+        "bgName": "基础研发"
+      },
+      {
+        "id": "MT-7004",
+        "code": "MT7004",
+        "jobName": "数据开发工程师",
+        "jobFamily": "数据",
+        "workCity": "北京",
+        "recruitType": 2,
+        "jobDescription": "数仓建设、ETL 与实时数据链路",
+        "jobRequirement": "Hive/Spark/Flink",
+        "jobBrief": "数据",
+        "updateTime": "2026-06-05 09:30:00",
+        "bgName": "大数据平台"
+      },
+      {
+        "id": "MT-7005",
+        "code": "MT7005",
+        "jobName": "客户端开发工程师-iOS",
+        "jobFamily": "客户端",
+        "workCity": "上海",
+        "recruitType": 2,
+        "jobDescription": "美团 iOS 端业务开发",
+        "jobRequirement": "Swift/Objective-C",
+        "jobBrief": "iOS",
+        "updateTime": "2026-06-04 09:00:00",
+        "bgName": "终端技术"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "code": 0,
+  "data": {
+    "totalNum": 220,
+    "list": [
+      {
+        "id": "BD-5001",
+        "name": "百度搜索研发工程师",
+        "description": "1. 搜索引擎核心模块开发\n2. 大规模分布式服务\n3. C++/Go 后端",
+        "education": "硕士",
+        "serviceConditionName": "2026届",
+        "projectTypeName": "搜索",
+        "workPlaceName": "北京",
+        "lastUpdateTime": "2026-06-08 10:00:00"
+      },
+      {
+        "id": "BD-5002",
+        "name": "AI算法工程师-文心一言",
+        "description": "大模型预训练与对齐",
+        "education": "博士",
+        "serviceConditionName": "2026届",
+        "projectTypeName": "MEG-NLP",
+        "workPlaceName": "北京",
+        "lastUpdateTime": "2026-06-07 09:00:00"
+      },
+      {
+        "id": "BD-5003",
+        "name": "前端工程师",
+        "description": "百度搜索前端业务",
+        "education": "本科",
+        "serviceConditionName": "2026届",
+        "projectTypeName": "搜索-前端",
+        "workPlaceName": "北京",
+        "lastUpdateTime": "2026-06-06 11:00:00"
+      },
+      {
+        "id": "BD-5004",
+        "name": "自动驾驶算法工程师",
+        "description": "Apollo 感知/规划",
+        "education": "硕士",
+        "serviceConditionName": "2026届",
+        "projectTypeName": "Apollo",
+        "workPlaceName": "北京、上海",
+        "lastUpdateTime": "2026-06-05 11:00:00"
+      },
+      {
+        "id": "BD-5005",
+        "name": "数据工程师",
+        "description": "数据平台与数仓",
+        "education": "本科",
+        "serviceConditionName": "2026届",
+        "projectTypeName": "数据中心",
+        "workPlaceName": "北京",
+        "lastUpdateTime": "2026-06-04 09:00:00"
+      }
+    ]
+  }
+}

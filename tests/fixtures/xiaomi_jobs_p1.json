@@ -1,0 +1,68 @@
+{
+  "code": 0,
+  "data": {
+    "total": 150,
+    "list": [
+      {
+        "jobId": "XM-2001",
+        "jobName": "Android开发工程师",
+        "workPlace": "北京",
+        "jobCategory": "客户端",
+        "recruitType": 1,
+        "jobDuty": "1. MIUI 系统开发\n2. 性能优化\n3. 系统级 API 设计",
+        "jobRequirement": "Java/Kotlin 扎实，熟悉 Android Framework",
+        "publishTime": "2026-06-08 10:00:00",
+        "departmentName": "MIUI 团队",
+        "eduDegree": "本科"
+      },
+      {
+        "jobId": "XM-2002",
+        "jobName": "嵌入式开发工程师",
+        "workPlace": "北京",
+        "jobCategory": "硬件",
+        "recruitType": 1,
+        "jobDuty": "智能手机底层固件开发",
+        "jobRequirement": "C/C++，Linux 驱动",
+        "publishTime": "2026-06-07 09:00:00",
+        "departmentName": "手机部",
+        "eduDegree": "硕士"
+      },
+      {
+        "jobId": "XM-2003",
+        "jobName": "算法工程师-小爱同学",
+        "workPlace": "北京、武汉",
+        "jobCategory": "算法",
+        "recruitType": 1,
+        "jobDuty": "语音/对话算法",
+        "jobRequirement": "PyTorch，NLP 经验",
+        "publishTime": "2026-06-06 11:00:00",
+        "departmentName": "AI 实验室",
+        "eduDegree": "硕士"
+      },
+      {
+        "jobId": "XM-2004",
+        "jobName": "前端开发工程师",
+        "workPlace": "北京",
+        "jobCategory": "前端",
+        "recruitType": 1,
+        "jobDuty": "小米商城前端开发",
+        "jobRequirement": "React/Vue",
+        "publishTime": "2026-06-05 09:00:00",
+        "departmentName": "互联网商城",
+        "eduDegree": "本科"
+      },
+      {
+        "jobId": "XM-2005",
+        "jobName": "测试开发工程师",
+        "workPlace": "北京",
+        "jobCategory": "测试",
+        "recruitType": 1,
+        "jobDuty": "自动化测试平台",
+        "jobRequirement": "Python",
+        "publishTime": "2026-06-04 09:00:00",
+        "departmentName": "QA",
+        "eduDegree": "本科"
+      }
+    ]
+  }
+}

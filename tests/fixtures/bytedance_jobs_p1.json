@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "message": "success",
+  "data": {
+    "count": 528,
+    "job_post_list": [
+      {
+        "id": "7321000000000000001",
+        "code": "A30001",
+        "title": "后端开发工程师 - 抖音电商",
+        "sub_title": "电商-基础架构",
+        "description": "1. 负责抖音电商核心交易、营销链路的后端架构与开发\n2. 使用 Go/Java 构建高并发分布式服务\n3. 参与系统稳定性与性能优化",
+        "requirement": "1. 计算机相关专业 2026 届本科及以上\n2. 熟练掌握 Go 或 Java，理解常见数据结构与算法\n3. 有分布式、微服务相关项目经验者优先",
+        "job_category": {"id": "1", "name": "研发"},
+        "recruit_type": {"id": "1", "name": "校园招聘"},
+        "city_list": [{"code": "BJ", "name": "北京", "en_name": "Beijing"}],
+        "publish_time": 1717977600000,
+        "city": "北京"
+      },
+      {
+        "id": "7321000000000000002",
+        "code": "A30002",
+        "title": "推荐算法工程师 - 今日头条",
+        "sub_title": "Data-Recommendation",
+        "description": "1. 今日头条主端推荐策略迭代\n2. 排序、召回、多目标建模\n3. 深度学习模型上线与 A/B 实验",
+        "requirement": "1. 硕士及以上学历，计算机/数学/统计相关专业\n2. 熟悉 PyTorch 或 TensorFlow\n3. 顶会论文发表者优先",
+        "job_category": {"id": "2", "name": "算法"},
+        "recruit_type": {"id": "1", "name": "校园招聘"},
+        "city_list": [{"code": "BJ", "name": "北京", "en_name": "Beijing"}, {"code": "SH", "name": "上海", "en_name": "Shanghai"}],
+        "publish_time": 1717891200000,
+        "city": "北京、上海"
+      },
+      {
+        "id": "7321000000000000003",
+        "code": "A30003",
+        "title": "前端开发工程师 - 飞书",
+        "sub_title": "Lark-Frontend",
+        "description": "1. 飞书 Web 端开发\n2. 使用 React、TypeScript 构建大型协同应用\n3. 跨端、性能优化与组件库建设",
+        "requirement": "1. 计算机相关专业 2026 届本科及以上\n2. 熟练 React/Vue 之一，TypeScript\n3. 了解前端工程化",
+        "job_category": {"id": "3", "name": "前端"},
+        "recruit_type": {"id": "1", "name": "校园招聘"},
+        "city_list": [{"code": "SZ", "name": "深圳", "en_name": "Shenzhen"}],
+        "publish_time": 1717804800000,
+        "city": "深圳"
+      },
+      {
+        "id": "7321000000000000004",
+        "code": "A30004",
+        "title": "客户端开发工程师 - 抖音",
+        "sub_title": "Douyin-Mobile",
+        "description": "1. 抖音 iOS / Android 客户端开发\n2. Swift / Kotlin 构建高性能移动端\n3. 参与音视频、动效、跨端能力建设",
+        "requirement": "1. 2026 届本科及以上\n2. 熟悉 iOS 或 Android 开发\n3. 有大型 App 经验者优先",
+        "job_category": {"id": "4", "name": "客户端"},
+        "recruit_type": {"id": "1", "name": "校园招聘"},
+        "city_list": [{"code": "HZ", "name": "杭州", "en_name": "Hangzhou"}],
+        "publish_time": 1717718400000,
+        "city": "杭州"
+      },
+      {
+        "id": "7321000000000000005",
+        "code": "A30005",
+        "title": "测试开发工程师",
+        "sub_title": "QA-Infra",
+        "description": "1. 自动化测试框架建设\n2. CI/CD 流水线开发\n3. 性能、稳定性专项",
+        "requirement": "1. 计算机相关专业 2026 届\n2. Python/Go 任意一门\n3. 熟悉 Linux",
+        "job_category": {"id": "5", "name": "测试"},
+        "recruit_type": {"id": "1", "name": "校园招聘"},
+        "city_list": [{"code": "BJ", "name": "北京", "en_name": "Beijing"}],
+        "publish_time": 1717632000000,
+        "city": "北京"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "code": 0,
+  "data": {
+    "total": 120,
+    "list": [
+      {
+        "jobId": "PDD-3001",
+        "jobName": "后端开发工程师",
+        "jobCategoryName": "后端",
+        "cityName": "上海",
+        "recruitTypeName": "校招",
+        "jobDescription": "拼多多电商核心后端开发",
+        "jobRequirement": "Java/Go，扎实算法基础",
+        "updateTime": 1717804800000,
+        "departmentName": "电商技术",
+        "eduDegree": "本科"
+      },
+      {
+        "jobId": "PDD-3002",
+        "jobName": "推荐算法工程师",
+        "jobCategoryName": "算法",
+        "cityName": "上海",
+        "recruitTypeName": "校招",
+        "jobDescription": "首页推荐排序",
+        "jobRequirement": "硕士，PyTorch",
+        "updateTime": 1717718400000,
+        "departmentName": "推荐策略",
+        "eduDegree": "硕士"
+      },
+      {
+        "jobId": "PDD-3003",
+        "jobName": "前端开发工程师",
+        "jobCategoryName": "前端",
+        "cityName": "上海",
+        "recruitTypeName": "校招",
+        "jobDescription": "中后台 Web 端开发",
+        "jobRequirement": "React",
+        "updateTime": 1717632000000,
+        "departmentName": "中后台",
+        "eduDegree": "本科"
+      },
+      {
+        "jobId": "PDD-3004",
+        "jobName": "数据工程师",
+        "jobCategoryName": "数据",
+        "cityName": "上海",
+        "recruitTypeName": "校招",
+        "jobDescription": "大数据平台",
+        "jobRequirement": "Hive/Spark",
+        "updateTime": 1717545600000,
+        "departmentName": "数据平台",
+        "eduDegree": "本科"
+      },
+      {
+        "jobId": "PDD-3005",
+        "jobName": "运维开发工程师",
+        "jobCategoryName": "运维",
+        "cityName": "上海",
+        "recruitTypeName": "校招",
+        "jobDescription": "K8s 平台与监控",
+        "jobRequirement": "Go/Python",
+        "updateTime": 1717459200000,
+        "departmentName": "基础架构",
+        "eduDegree": "本科"
+      }
+    ]
+  }
+}

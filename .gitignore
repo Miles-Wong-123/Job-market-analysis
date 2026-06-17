@@ -12,17 +12,21 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .pytest_cache/
+.ruff_cache/
+build/
+dist/
 
 # 虚拟环境
 venv/
 .venv/
 env/
 
-# ===== Jupyter Notebook（做分析时会用）=====
+# ===== Jupyter Notebook =====
 .ipynb_checkpoints/
 
 # ===== 抓取下来的数据（按需调整）=====
-# 原始大文件一般不入库；如果想保留某些清洗后的数据，可以单独加例外
+data/jobs.db
+data/raw/
 data/*.csv
 data/*.json
 *.log

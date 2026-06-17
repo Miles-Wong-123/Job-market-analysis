@@ -1,0 +1,74 @@
+{
+  "code": 0,
+  "message": "ok",
+  "resultData": {
+    "totalCount": 200,
+    "resultList": [
+      {
+        "id": "JD-9001",
+        "jobName": "Java开发工程师-京东零售",
+        "jobReqDeptName": "京东零售-技术与数据中心",
+        "jobAreaCode": "BJ",
+        "jobAreaName": "北京",
+        "jobReqType": "校园招聘",
+        "jobBrief": "京东商城后端服务开发",
+        "jobDuty": "1. 商品/订单核心服务\n2. Java 微服务\n3. 高并发优化",
+        "jobDemand": "1. 计算机相关 2026 届\n2. Java 扎实，熟悉 Spring",
+        "modifyDate": "2026-06-08 10:00:00",
+        "eduDegree": "本科"
+      },
+      {
+        "id": "JD-9002",
+        "jobName": "算法工程师-广告",
+        "jobReqDeptName": "京东广告平台",
+        "jobAreaCode": "BJ",
+        "jobAreaName": "北京",
+        "jobReqType": "校园招聘",
+        "jobBrief": "广告排序与召回",
+        "jobDuty": "广告 CTR/CVR 模型迭代",
+        "jobDemand": "硕士，PyTorch/TensorFlow",
+        "modifyDate": "2026-06-07 11:00:00",
+        "eduDegree": "硕士"
+      },
+      {
+        "id": "JD-9003",
+        "jobName": "前端开发工程师",
+        "jobReqDeptName": "京东商城前端",
+        "jobAreaCode": "BJ",
+        "jobAreaName": "北京",
+        "jobReqType": "校园招聘",
+        "jobBrief": "营销页与中后台",
+        "jobDuty": "前端业务开发",
+        "jobDemand": "React/Vue",
+        "modifyDate": "2026-06-06 09:00:00",
+        "eduDegree": "本科"
+      },
+      {
+        "id": "JD-9004",
+        "jobName": "测试开发工程师",
+        "jobReqDeptName": "QA",
+        "jobAreaCode": "BJ",
+        "jobAreaName": "北京",
+        "jobReqType": "校园招聘",
+        "jobBrief": "自动化测试",
+        "jobDuty": "测试框架建设",
+        "jobDemand": "Python/Java",
+        "modifyDate": "2026-06-05 09:00:00",
+        "eduDegree": "本科"
+      },
+      {
+        "id": "JD-9005",
+        "jobName": "数据工程师",
+        "jobReqDeptName": "数据平台",
+        "jobAreaCode": "SH",
+        "jobAreaName": "上海",
+        "jobReqType": "校园招聘",
+        "jobBrief": "数仓",
+        "jobDuty": "ETL、数据治理",
+        "jobDemand": "Hive/Spark",
+        "modifyDate": "2026-06-04 09:00:00",
+        "eduDegree": "本科"
+      }
+    ]
+  }
+}

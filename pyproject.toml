@@ -1,0 +1,53 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "job-market-analysis"
+version = "0.1.0"
+description = "大厂校招技术岗市场需求分析工具：抓取公开校招职位、归一化、分类、可视化"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "wmy" }]
+dependencies = [
+    "httpx[http2]>=0.27",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+playwright = ["playwright>=1.44"]
+notebook = [
+    "jupyter>=1.0",
+    "pandas>=2.2",
+    "matplotlib>=3.8",
+]
+dev = [
+    "pytest>=8.0",
+    "pytest-mock>=3.12",
+    "ruff>=0.5",
+    "jupyter>=1.0",
+    "pandas>=2.2",
+    "matplotlib>=3.8",
+]
+
+[project.scripts]
+job-market = "job_market.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+job_market = ["py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]

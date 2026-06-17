@@ -1,0 +1,73 @@
+{
+  "code": 0,
+  "data": {
+    "totalRecord": 300,
+    "list": [
+      {
+        "jobId": "HW-4001",
+        "jobName": "软件开发工程师",
+        "jobFamilyName": "云计算",
+        "jobFamilyCode": "CLOUD",
+        "recruitType": "校园招聘",
+        "postingDate": "2026-06-08",
+        "countryName": "中国",
+        "cityName": "深圳",
+        "jobResponsibility": "1. 华为云核心服务开发\n2. Go/Java 分布式系统\n3. 高可用架构",
+        "jobRequirement": "计算机相关 2026 届，扎实算法基础，熟悉 Linux",
+        "eduDegree": "本科"
+      },
+      {
+        "jobId": "HW-4002",
+        "jobName": "AI算法工程师",
+        "jobFamilyName": "AI",
+        "jobFamilyCode": "AI",
+        "recruitType": "校园招聘",
+        "postingDate": "2026-06-07",
+        "countryName": "中国",
+        "cityName": "北京",
+        "jobResponsibility": "盘古大模型预训练",
+        "jobRequirement": "硕士及以上，PyTorch 熟练",
+        "eduDegree": "硕士"
+      },
+      {
+        "jobId": "HW-4003",
+        "jobName": "嵌入式软件工程师",
+        "jobFamilyName": "终端",
+        "jobFamilyCode": "DEV",
+        "recruitType": "校园招聘",
+        "postingDate": "2026-06-06",
+        "countryName": "中国",
+        "cityName": "东莞",
+        "jobResponsibility": "鸿蒙系统底层开发",
+        "jobRequirement": "C/C++、Linux 内核",
+        "eduDegree": "本科"
+      },
+      {
+        "jobId": "HW-4004",
+        "jobName": "无线通信算法工程师",
+        "jobFamilyName": "通信",
+        "jobFamilyCode": "COM",
+        "recruitType": "校园招聘",
+        "postingDate": "2026-06-05",
+        "countryName": "中国",
+        "cityName": "上海",
+        "jobResponsibility": "5G/6G 物理层算法",
+        "jobRequirement": "硕士及以上，通信工程",
+        "eduDegree": "硕士"
+      },
+      {
+        "jobId": "HW-4005",
+        "jobName": "测试工程师",
+        "jobFamilyName": "QA",
+        "jobFamilyCode": "QA",
+        "recruitType": "校园招聘",
+        "postingDate": "2026-06-04",
+        "countryName": "中国",
+        "cityName": "深圳",
+        "jobResponsibility": "自动化测试",
+        "jobRequirement": "Python",
+        "eduDegree": "本科"
+      }
+    ]
+  }
+}
