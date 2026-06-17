@@ -1,0 +1,32 @@
+# ===== 操作系统 =====
+.DS_Store
+Thumbs.db
+
+# ===== 密钥 / 敏感信息（绝对不要上传）=====
+.env
+*.key
+secrets.json
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# ===== Jupyter Notebook（做分析时会用）=====
+.ipynb_checkpoints/
+
+# ===== 抓取下来的数据（按需调整）=====
+# 原始大文件一般不入库；如果想保留某些清洗后的数据，可以单独加例外
+data/*.csv
+data/*.json
+*.log
+
+# ===== 编辑器 / IDE =====
+.vscode/
+.idea/
